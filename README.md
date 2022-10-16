@@ -1,2 +1,2 @@
 # Netflix
-Netflix Clone using HTML, CSS and JS- http://abhinavnetflix.42web.io/
+Netflix Clone using HTML, CSS and JS- https://theabhiinavgarg.github.io/netflix/
